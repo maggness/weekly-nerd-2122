@@ -8,11 +8,11 @@ For the weekly nerd, every week a nerd comes to talk (surprise) about everything
 - Learn to write subject-related articles
 
 ## Format of the readme:
-[Articles](https://github.com/maggness/weekly-nerd-2122/README.md#articles)
+[Articles](https://github.com/maggness/weekly-nerd-2122#articles)
 
-[Weekly Nerd](https://github.com/maggness/weekly-nerd-2122/README.md#weekly-nerds)
+[Weekly Nerd](https://github.com/maggness/weekly-nerd-2122#weekly-nerds)
 
-[Weekly Mingle](https://github.com/maggness/weekly-nerd-2122/README.md#weekly-mingles)
+[Weekly Mingle](https://github.com/maggness/weekly-nerd-2122#weekly-mingles)
 
 # Articles
 ## Article 1: Typescript
