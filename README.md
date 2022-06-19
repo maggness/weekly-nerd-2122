@@ -124,3 +124,155 @@ https://www.joshwcomeau.com/animation/3d-button/
 https://www.sinds1971.nl/
 
 ## Article 3: How to use Socket.io for a basic multiplayer game.
+
+
+# Weekly nerds
+
+## Cyd Stumpel
+Accessibility is more than important for a website.
+
+You need to design your websites responsive so that every user can view your website
+
+As a front-ender you need to be able to give advice on design and code.
+
+Error states are very important to include when designing and creating your website. Also with forms
+
+## Alvaro Montoro
+All the way from Texas and has been in the business for over 15 years damn
+
+You can also use CSS to draw, he makes art with CSS. Also css is good for reduced motion, responsiveness, user preferences & color contrast.
+
+You can use 1 div's to make drawings
+
+With clip path, masks, filters, blender mode, transformations, box-shadows & border radius you can make cool things.
+
+https://alvaromontoro.com/projects (examples)
+
+## Bram van Damme (CSS bonus)
+cascade is through can declarations determines which style you see
+
+goes by priority, you have styling from the browser itself but they have less priority than your own. you have user preference, eg visually impaired > larger text. Transitions have the highest priority.
+
+Newer css can @layer, works a bit like Photoshop with layers. First declared layer has the least priority and last highest priority. @layer layer name {}
+
+@layer with the same name will be merged
+
+at the top of your css file you can
+`@layer name, name, name, name;`
+this is how you declare the next of your layer
+
+you can
+`@import url(style.css)` to import other style
+
+## Fenna de Wilde
+Websites need to be more accessible, unfortunately companies are not that busy with this yet. In America it is illegal to have an inaccessible website.
+
+You don't necessarily have to put design aside to have a nice accessible website.
+
+Think carefully about screen readers
+
+In the future maybe let AI generate websites, now working on art.
+
+## Nils Binder (Another CSS bonus)
+<cite> for art
+
+counter tag css, counter-increment & counter-reset
+
+``` css
+counter-reset:name;
+counter-incement:name;
+
+:before
+content: counter(name, lower-alpha) ") ";
+```
+
+fancy border radius - github (useful)
+ 
+## Krijn Hoetmer
+User friendly, and an extension of something physical, for example with buttons.
+
+ask open feedback questions during an interview
+
+A web app is never finished, you can always get feedback and improve it.
+
+Keep it as simple as possible for users
+
+Whatever you think of, it's being abused. even if you don't realize it: let people select wrong colors and then it will not be visible to the colorblind
+
+Further development is difficult, if it becomes too complex it may no longer be accessible for some of your users. 
+ 
+ ## Vitaly Friedman
+
+https://www.smashingmagazine.com/
+https://yellowlab.tools/ (useful for testing)
+
+some products are very complex, you have to make that easier for the users. Or make the complexity so that it works well for experts, such as at the dentist.
+
+don't make navigation on your website too difficult, if it is very complex make it as structured as possible.
+
+With complex nav good breadcrumbs.
+
+No hover at menus > major irritation
+
+no error messages under your form inputs, keyboard and everything gets in the way.
+
+explanation of buttons that are disabled why they are
+
+## Chanel Mepschen (Triple)
+setup: Git, NPM, react/next.js & typescript
+
+Typescript gives good feedback
+
+eslint & prettier makes your code beautiful, clear
+
+SASS > formulas in css, fewer errors
+
+give customers preview
+
+nice internship place?
+ 
+ ## Leonie Watson
+You always start with the user architecture, not with graphic design but with voice design.
+
+Screen readers can differ in voice, gender and, for example, accent. That's TTS, this tts keeps getting better and better
+
+css speech module > not supported by most browsers
+
+SSML > is used by google home etc
+
+Give blind people the choice to skip content if they don't find it useful, makes alt texts longer with a nice and good description. More info = know what you can do with it / more atmosphere
+
+make states clear when something is pressed, focus etc
+
+Screen readers are not perfect, they often have things with pronunciation errors. You can't do anything about this
+
+
+## Rian Rietveld
+Cognitive disabilities are, for example, people whose brains work differently
+
+You have permanent cognitive limitations and temporary
+
+Permanent is his e.g. ADHD, autism, dyslexia, anxiety disorder
+
+Temporary: you are drunk or you have a hangover, sadness, angry, irritated, tired, noisy environment
+
+Consistency navigation layout
+- menu in the same place
+- breadcrumbs on
+- grip & clear title
+
+Put names with icons, don't assume foreknowledge
+
+With animations, make something calm. Give the user control whether they want to see the animation
+
+No big pieces in all caps, that's hard to read
+
+Use headings, subheadings & paragraphs
+
+Make contacting as easy as possible, offer many options
+
+Don't remove the label from forms when they fill in things, label above the input box
+Put things that belong together
+Tell what happens when you press the submit button
+ 
+ # Weekly Mingles
