@@ -1,3 +1,21 @@
+# Weekly nerd
+
+For the weekly nerd, every week a nerd comes to talk (surprise) about everything front-end. This is done by companies, former students, designers and professionals, often combinations of those!
+
+## Learning goals
+- Getting acquainted with the professional field
+- Orientate on the field
+- Learn to write subject-related articles
+
+## Format of the readme:
+[Articles](https://github.com/maggness/weekly-nerd-2122/edit/master/README.md#articles)
+
+Weekly Nerd
+
+Weekly Mingle
+
+Reflection
+
 # Articles
 ## Article 1: Typescript
 
