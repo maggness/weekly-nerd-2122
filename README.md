@@ -14,8 +14,6 @@ For the weekly nerd, every week a nerd comes to talk (surprise) about everything
 
 [Weekly Mingle](https://github.com/maggness/weekly-nerd-2122/blob/master/README.md#weekly-mingles)
 
-Reflection
-
 # Articles
 ## Article 1: Typescript
 
