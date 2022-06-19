@@ -307,4 +307,25 @@ Put things that belong together
 Tell what happens when you press the submit button
 </details>
  
- # Weekly Mingles
+# Weekly Mingles
+## Build in Amsterdam
+Build in Amsterdam is a Digital agency that has large clients such as Adidas, Moooi, Mammut and Mollie. We went to the office and had a presentation by Folkert, he is an old CMDer. We also saw Carla, I talked to after a weekly nerd. He gave a short tour of the building and then he gave a presentation about Build in Amsterdam and working there.
+
+As the first weekly mingle we didn't really know what to expect but it was super interesting. Nice to hear what our work might look like later and what your options are.
+
+I got a good impression from the FOAM website they have been working on. This site was created during corona to mimic the museum online. The interaction and colors are very nice and less confessional.
+ 
+## Label A
+Week 2 we went to Label A, they are still at Leidseplein but will move in August. Then they will get a somewhat larger building because there are now so many people working there that there is no longer room for everyone. They also have an office in Rotterdam.
+
+We had a short workshop and explanation about Typescript, which they use there. This is an extension to Javascript to give your code even more structure and to make it self-documented. They have some sort of academy for new hires to get them ready for work there. That way they are not just thrown in at the deep end.
+
+For the workshop we got a github repo that we had to fork with 3 small assignments. First the base, then build on it. This was fun to do and more fun than just listening to a presentation.
+
+ ## DEPT
+Week 3 we went to DEPT. We got a tour of the office, which was a really nice. DEPT is already a large company with many offices, also abroad. They have shown cases that DEPT has worked on, such as one for the Haagsche Hogeschool. He also showed some code for this and how the templating works. DEPT also has a kind of academy for beginners/trainees.
+ 
+## De Voorhoede
+The last week we have been at De Voorhoede. After entering we had a small tour and we sat down for a presentation. During this presentation they talked about a project for Elsevier and how they have a big template where they input all the styling like colors to generate websites. They do this with components to ensure that large projects run smoothly.
+
+We also made a kind of assignment, we had to circle the "Atoms", "Modules" and "Organism" and come up with good class names for this. The assignment was not clear enough at the moment so we accidentally made a breakdown sketch. After a little more explanation we knew better what “Atomic design” is.
