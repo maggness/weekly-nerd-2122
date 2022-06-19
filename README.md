@@ -122,3 +122,5 @@ https://css-tricks.com/almanac/properties/p/perspective/
 https://www.joshwcomeau.com/animation/3d-button/
 
 https://www.sinds1971.nl/
+
+## Article 3: How to use Socket.io for a basic multiplayer game.
