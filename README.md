@@ -44,3 +44,21 @@ With Typescript you indicate what you are going to use the data for, for example
     id: string = ‘AF5SA335AA2’
   };
 ```
+
+You could also think of Typescript as a bit of a linter for JS, so you don't have to relearn much like with PureScript or CoffeeScript. And every JS file is compatible with TypeScript, you can therefore easily convert the JavaScript to TypeScript. There is a change that you will get typing errors, but it will still work.
+
+To give some examples of some other types you have for example Void & Never. Void is used when no value will be returned, this is the opposite of Any.
+``` typescript
+let useless: void = undefined;
+useless = 1; // error
+```
+
+Never is the return type for something that should never occur.
+``` typescript
+function raiseError(message: string): never {
+    throw new Error(message);
+}
+```
+Typescript is so big, the chance that I will use Typescript during my work & internship is very high. Really interesting to read about it and get started with it. Also, the fact that writing documentation becomes a lot less a part of writing your code is already a + for me!
+
+## Article 2: Typescript
