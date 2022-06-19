@@ -61,4 +61,11 @@ function raiseError(message: string): never {
 ```
 Typescript is so big, the chance that I will use Typescript during my work & internship is very high. Really interesting to read about it and get started with it. Also, the fact that writing documentation becomes a lot less a part of writing your code is already a + for me!
 
+https://www.typescriptlang.org/
+https://www.stxnext.com/blog/typescript-pros-cons-javascript/
+weekly-mingle-typescript-workshop (LabelA)
+https://www.typescripttutorial.net/typescript-tutorial/typescript-void-type/
+What is TypeScript and Should You Learn it?
+
 ## Article 2: Typescript
+swag
