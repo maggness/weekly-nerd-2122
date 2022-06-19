@@ -123,8 +123,33 @@ https://www.joshwcomeau.com/animation/3d-button/
 
 https://www.sinds1971.nl/
 
-## Article 3: How to use Socket.io for a basic multiplayer game.
+## Article 3: Web Design & Dyslexia
 
+There are many people who have dyslexia, I am one of them. We don't have the hardest time online, we can read but just not that good and fast. Not all dyslexics are the same, but there is an example website of what it looks like for some: http://geon.github.io/programming/2016/03/03/dsxyliea. How could you make a website more accessible for people with dyslexia?
+
+There are a few basic points to keep in mind:
+- use sans-serif fonts, these fonts are less crowded and easier to read with people who have dyslexia.
+- You have to take larger fonts into account, some people with dyslexia make their fonts bigger because they can read better. Test your website carefully that everything is still in place if you make the text larger.
+- Pay attention to word spacing, the bigger the font spacing, the easier the words are to tell apart. But make sure that the spacing is not too big, this makes it more difficult to read.
+- Pay close attention to your headers, make them larger than the normal text so that it is easy to notice.
+- The more text on an alina, the more difficult it is to read. Even if you have 2 columns next to each other with text.
+- Uses BOLD instead of underlines, this is easier to read.
+
+Many of these points are covered by general accessibility guidelines. It also helps to make your website very visual. Photos with items or using icons for things.
+
+You should also pay close attention to contrast for texts. White on black or black on white is more difficult to read than, for example, black on beige. A dark gray font is also easier to read than a black font.
+
+Many websites also have a search function that they depend on, this is really terrible for dyslexics. I myself have had many times where I couldn't find something because I could only search for it with text but only spelled it wrong.
+
+It is not impossible to use most websites as a dyslexic, but it is super nice if the above points are taken into account.
+
+https://www.succeedwithdyslexia.org/blog/creating-a-dyslexia-friendly-website-experience/#:~:text=The%20British%20Dyslexia%20Association%20recommends,Times%20New%20Roman%20and%20Georgia.
+
+https://medium.com/branding101/designing-for-dyslexia-9e61945f82b0
+
+https://uxplanet.org/designing-for-dyslexia-6d12e8c41cd7
+
+http://geon.github.io/programming/2016/03/03/dsxyliea
 
 # Weekly nerds
 
