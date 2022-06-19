@@ -10,7 +10,7 @@ For the weekly nerd, every week a nerd comes to talk (surprise) about everything
 ## Format of the readme:
 [Articles](https://github.com/maggness/weekly-nerd-2122/edit/master/README.md#articles)
 
-Weekly Nerd
+[Weekly Nerd](https://github.com/maggness/weekly-nerd-2122/edit/master/README.md#weekly-nerds)
 
 Weekly Mingle
 
@@ -129,6 +129,8 @@ https://www.sinds1971.nl/
 # Weekly nerds
 
 ## Cyd Stumpel
+<details>
+<summary>Notes</summary>
 Accessibility is more than important for a website.
 
 You need to design your websites responsive so that every user can view your website
@@ -136,8 +138,11 @@ You need to design your websites responsive so that every user can view your web
 As a front-ender you need to be able to give advice on design and code.
 
 Error states are very important to include when designing and creating your website. Also with forms
+</details>
 
 ## Alvaro Montoro
+<details>
+<summary>Notes</summary>
 All the way from Texas and has been in the business for over 15 years damn
 
 You can also use CSS to draw, he makes art with CSS. Also css is good for reduced motion, responsiveness, user preferences & color contrast.
@@ -147,8 +152,11 @@ You can use 1 div's to make drawings
 With clip path, masks, filters, blender mode, transformations, box-shadows & border radius you can make cool things.
 
 https://alvaromontoro.com/projects (examples)
+</details>
 
 ## Bram van Damme (CSS bonus)
+ <details>
+<summary>Notes</summary>
 cascade is through can declarations determines which style you see
 
 goes by priority, you have styling from the browser itself but they have less priority than your own. you have user preference, eg visually impaired > larger text. Transitions have the highest priority.
@@ -163,8 +171,11 @@ this is how you declare the next of your layer
 
 you can
 `@import url(style.css)` to import other style
-
+</details>
+ 
 ## Fenna de Wilde
+  <details>
+<summary>Notes</summary>
 Websites need to be more accessible, unfortunately companies are not that busy with this yet. In America it is illegal to have an inaccessible website.
 
 You don't necessarily have to put design aside to have a nice accessible website.
@@ -172,8 +183,11 @@ You don't necessarily have to put design aside to have a nice accessible website
 Think carefully about screen readers
 
 In the future maybe let AI generate websites, now working on art.
-
+</details>
+  
 ## Nils Binder (Another CSS bonus)
+<details>
+<summary>Notes</summary>
 <cite> for art
 
 counter tag css, counter-increment & counter-reset
@@ -187,8 +201,11 @@ content: counter(name, lower-alpha) ") ";
 ```
 
 fancy border radius - github (useful)
+ </details>
  
 ## Krijn Hoetmer
+<details>
+<summary>Notes</summary>
 User friendly, and an extension of something physical, for example with buttons.
 
 ask open feedback questions during an interview
@@ -200,8 +217,11 @@ Keep it as simple as possible for users
 Whatever you think of, it's being abused. even if you don't realize it: let people select wrong colors and then it will not be visible to the colorblind
 
 Further development is difficult, if it becomes too complex it may no longer be accessible for some of your users. 
+ </details>
  
  ## Vitaly Friedman
+<details>
+<summary>Notes</summary>
 
 https://www.smashingmagazine.com/
 https://yellowlab.tools/ (useful for testing)
@@ -217,8 +237,12 @@ No hover at menus > major irritation
 no error messages under your form inputs, keyboard and everything gets in the way.
 
 explanation of buttons that are disabled why they are
-
+</details>
+ 
 ## Chanel Mepschen (Triple)
+<details>
+<summary>Notes</summary>
+ 
 setup: Git, NPM, react/next.js & typescript
 
 Typescript gives good feedback
@@ -230,8 +254,12 @@ SASS > formulas in css, fewer errors
 give customers preview
 
 nice internship place?
+ </details>
  
  ## Leonie Watson
+<details>
+<summary>Notes</summary>
+ 
 You always start with the user architecture, not with graphic design but with voice design.
 
 Screen readers can differ in voice, gender and, for example, accent. That's TTS, this tts keeps getting better and better
@@ -245,9 +273,12 @@ Give blind people the choice to skip content if they don't find it useful, makes
 make states clear when something is pressed, focus etc
 
 Screen readers are not perfect, they often have things with pronunciation errors. You can't do anything about this
-
+</details>
 
 ## Rian Rietveld
+ <details>
+<summary>Notes</summary>
+  
 Cognitive disabilities are, for example, people whose brains work differently
 
 You have permanent cognitive limitations and temporary
@@ -274,5 +305,6 @@ Make contacting as easy as possible, offer many options
 Don't remove the label from forms when they fill in things, label above the input box
 Put things that belong together
 Tell what happens when you press the submit button
+</details>
  
  # Weekly Mingles
