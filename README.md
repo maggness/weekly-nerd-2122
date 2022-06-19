@@ -12,7 +12,7 @@ For the weekly nerd, every week a nerd comes to talk (surprise) about everything
 
 [Weekly Nerd](https://github.com/maggness/weekly-nerd-2122/edit/master/README.md#weekly-nerds)
 
-Weekly Mingle
+[Weekly Mingle](https://github.com/maggness/weekly-nerd-2122/blob/master/README.md#weekly-mingles)
 
 Reflection
 
